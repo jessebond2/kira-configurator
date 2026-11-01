@@ -1,0 +1,9 @@
+# Local build toolchain and outputs
+.toolchain/
+.venv/
+build/
+node_modules/
+dist/
+*.dfu.bin
+.DS_Store
+out/
